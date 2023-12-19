@@ -5,10 +5,6 @@
 
 cacheUrl: https://Coolnz.github.io/osmos/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
   - href: https://mali-api.wrss.top/rss/video/ac9cef765e0dbf0bda625b3d1d3b446d
   - href: https://mali-api.wrss.top/rss/video/508c75c8507a2ae5223dfd2faeb98122
   - href: https://mali-api.wrss.top/rss/video/c13367945d5d4c91047b3b50234aa7ab
