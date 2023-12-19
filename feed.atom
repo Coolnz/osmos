@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Coolnz.github.io/osmos/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T13:58:47.639Z</updated>
+    <updated>2023-12-19T14:02:00.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://Coolnz.github.io/osmos/index.html"/>
     <link rel="self" href="https://Coolnz.github.io/osmos/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[github-actions bot pushed to gh-pages in Coolnz/osmos]]></title>
+        <id>https://github.com/Coolnz/osmos/compare/7438cc9ce7...6ac1e29df7</id>
+        <link href="https://github.com/Coolnz/osmos/compare/7438cc9ce7...6ac1e29df7"/>
+        <updated>2023-12-19T13:58:50.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>rss - gg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No.92]]></title>
         <id>https://hellogithub.com/periodical/volume/92</id>
@@ -1604,15 +1614,6 @@ are:</P>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Odin Project on freeCodeCamp – Interactive Version]]></title>
-        <id>https://www.freecodecamp.org/news/the-odin-project-interactive-version/</id>
-        <link href="https://www.freecodecamp.org/news/the-odin-project-interactive-version/"/>
-        <updated>2023-12-18T23:23:16.000Z</updated>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[smallnest starred daeuniverse/dae]]></title>
         <id>https://github.com/daeuniverse/dae</id>
         <link href="https://github.com/daeuniverse/dae"/>
@@ -1630,16 +1631,6 @@ are:</P>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>rss - gg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Remix and Strapi to Create Full Stack Apps]]></title>
-        <id>https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/</id>
-        <link href="https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/"/>
-        <updated>2023-12-18T20:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1742,16 +1733,6 @@ are:</P>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>rss - gg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/</id>
-        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/"/>
-        <updated>2023-12-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
     <entry>
@@ -2603,26 +2584,6 @@ are:</P>
 <p>本播客的内容仅代表个人观点，并不代表任何单位、供职机构等的立场，也不构成任何形式的医疗意见或建议等。本内容仅供健康科普使用，不能作为诊断、治疗的依据，请谨慎参考。未经本播客的授权，不得转载或使用播客节目中的任何内容。</p>]]></summary>
         <author>
             <name>rss - podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Props – The Animated Guide]]></title>
-        <id>https://www.freecodecamp.org/news/react-props-animated-guide/</id>
-        <link href="https://www.freecodecamp.org/news/react-props-animated-guide/"/>
-        <updated>2023-12-17T21:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Props are a common stumbling block when moving from JavaScript to React. In reality, using props in React components is almost identical to using arguments in plain JavaScript functions. Let's take a quick look at what props are in React through some helpful animations. These will help you visualize how]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Accessibility Best Practices – How to Ensure Everyone Can Use Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices/"/>
-        <updated>2023-12-17T21:27:27.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic world of web development, creating websites that are accessible to all users, including those with disabilities, is not just a best practice – it's a necessity.  Web accessibility ensures that everyone, regardless of their abilities, can perceive, understand, navigate, and interact with the web. This inclusivity]]></summary>
-        <author>
-            <name>SUDHEER KUMAR REDDY GOWRIGARI</name>
         </author>
     </entry>
     <entry>
@@ -3746,16 +3707,6 @@ python3 <span class="nt">-m</span> fastchat.serve.openai_api_server <span class=
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Variables in Figma – A Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/variables-in-figma-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/variables-in-figma-handbook/"/>
-        <updated>2023-12-15T22:11:10.000Z</updated>
-        <summary type="html"><![CDATA[At Figma Config 2023, the Figma team unveiled a lot of new features – including variables. The launch of variables in Figma offers designers a new approach that helps them make their designs more flexible and adaptable.  In this tutorial, you'll learn what variables in Figma are, and how]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[分享一个修复chrome内置翻译功能的工具]]></title>
         <id>https://meta.appinn.net/t/topic/50411</id>
         <link href="https://meta.appinn.net/t/topic/50411"/>
@@ -3793,16 +3744,6 @@ python3 <span class="nt">-m</span> fastchat.serve.openai_api_server <span class=
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast: Kylie Ying on MIT, CERN, Figure Skating, and Poker AI]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-kylie-ying-mit-cern/"/>
-        <updated>2023-12-15T17:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm joined by Kylie Ying. She's a software engineer and a teacher at freeCodeCamp. We talk about Kylie's 5 years at MIT, her time at CERN working on the Large Hadron Collider, competitive figure skating, and even poker-playing AIs. Tell your friends about the freeCodeCamp podcast. Let's inspire more]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[免费探索 YouTrack 中 JetBrains AI 的强大功能]]></title>
         <id>https://blog.jetbrains.com/zh-hans/youtrack/2023/12/discover-the-power-of-jetbrains-ai-in-youtrack-for-free/</id>
         <link href="https://blog.jetbrains.com/zh-hans/youtrack/2023/12/discover-the-power-of-jetbrains-ai-in-youtrack-for-free/"/>
@@ -3810,16 +3751,6 @@ python3 <span class="nt">-m</span> fastchat.serve.openai_api_server <span class=
         <summary type="html"><![CDATA[生成式 AI 现已免费提供给使用 YouTrack 的团队！ 由 JetBrains AI 赋能的 AI Assistant 现已登陆 YouTrack 2023.3。 它可以帮助您为任务、文章和支持工单中的内容生成总结，提供任意语言内容的本地化总结，并为您撰写回复和评论。 您现在还可以使用文本识别从图像中复制文本和搜索包含特定文本的图像。 此外还有更多增强功能，旨在帮助您改进处理任务、问题列表和文章的工作。 YouTrack 中的 AI Assistant AI Assistant 由 JetBrains AI Service 赋能，可以将您透明地连接到复杂的大型语言模型 (LLM)，并在 YouTrack 内实现由 AI 赋能的特定功能。 客户现在可以通过免费抵用金来使用 JetBrains AI，因此我们建议每个团队在日常项目协作中尝试生成式 AI。 为了向用户提供高水准、多元化、本土化的 AI Assistant 服务，JetBrains 目前正在与阿里云通义大模型商洽未来的合作事宜，为中国开发者带来 AI Assistant 服务。 *由于服务提供商的限制，一些地区的用户目前无法访问 AI Assistant。 使用 AI Assistant 轻松获取总结 您是否经常打开一项任务或一篇文章，结果发现描述和讨论很长，需要上下滚动阅读？ AI Assistant [&#8230;]]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Async/Await in JavaScript – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-async-await/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-async-await/"/>
-        <updated>2023-12-15T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello friends! In this article, I'm going to show you how to use the “async/await” special syntax when handling JavaScript Promises. If you don't know or need a refresher on JavaScript promises, you can read my previous article: How JavaScript Promises Work – Tutorial for Beginners [/news/javascript-promise-object-explained/]. You'll need to]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
         </author>
     </entry>
     <entry>
@@ -4181,16 +4112,6 @@ are:</P>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/</id>
-        <link href="https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/"/>
-        <updated>2023-12-14T17:53:14.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Azure Fundamentals Certification is for technology professionals who want to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure. We just posted a full exam-prep course on the freeCodeCamp.org]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[腾讯把我们拉进电影院，结果是为了这？]]></title>
         <id>https://youxiputao.com/article/25810</id>
         <link href="https://youxiputao.com/article/25810"/>
@@ -4228,16 +4149,6 @@ are:</P>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test JavaScript  Code with Jest]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/"/>
-        <updated>2023-12-14T13:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -4298,16 +4209,6 @@ are:</P>
         <summary type="html"><![CDATA[<p>• 删除 YouTube（Music）广告<br>• 删除 YouTube 底部 上传 按钮 &amp; YouTube Music 底部选段、升级按钮<br>• 增加 YouTube 画中画(PIP)<br>• 增加 YouTube 字幕翻译 (Thanks <a href="https://t.me/VirgilClyne" target="_blank">@VirgilClyne</a>)<br>• 增加 YouTube (Music) 后台播放<br>• 增加 YouTube Music 歌词翻译<br><br>模块：<a href="https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule" target="_blank" rel="noopener">https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule</a><br><br>GitHub：<a href="https://github.com/Maasea" target="_blank" rel="noopener">https://github.com/Maasea</a><br>采集点：<a href="https://t.me/QVQ_Channel/1019" target="_blank" rel="noopener">https://t.me/QVQ_Channel/1019</a></p><img src="https://cdn5.cdn-telegram.org/file/T_MRhc7G369NOXCCqo41VpWasheEyjGvqsOQWQHnGuZH3VRAITCMBoYL1G8b5zGFml9oKZ8BML3USVx7ZMT0T85vTaBd1oKD8eYQ2NUIytwsjiK0QrDIm1UbFEZEUsSEO2VqVUaqECdZzusFrDJHIyl9RJ9UhzUSs6DEZws0xMlc42A05U0snxuiuHGts0JF1RyJwG_ifJMx4hcPrJO_3tkq-Pbb5FBgrcvQLeKl5VtIIZ7K3BSMpdbIzMn4Fc6BvBR8SI4QnHmSFevR_pGCreQQrEc67scKY-pNjItJZ0cfq4bOmwg4pkHGryJ-Tobl8j8hWhTCRJ6f63P5DOfHbw.jpg" referrerpolicy="no-referrer">]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch API Data in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/"/>
-        <updated>2023-12-14T10:18:47.000Z</updated>
-        <summary type="html"><![CDATA[When developing applications, you often need to get data from an API. This lets you deliver dynamic and often-updated content within your application. You'll want to retrieve this data as you may need to interact with external services, communicate with a distant server, or access a database. In this article,]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
         </author>
     </entry>
     <entry>
@@ -4687,16 +4588,6 @@ are:</P>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study]]></title>
-        <id>https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/</id>
-        <link href="https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/"/>
-        <updated>2023-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
     <entry>
@@ -5359,16 +5250,6 @@ are:</P>
         <summary type="html"><![CDATA[<figure><img src="https://image.xyzcdn.net/FiiEwSiLCyJVJl-EioFvgF0nJX8d.jpg" referrerpolicy="no-referrer"></figure><p>前些天我和听友群的朋友聊天发现，大家收听播客的时间和方式真的是多种多样，但是最多的一个时间段就是上班的时候，可能就是现在，此时此刻，一边工作、一边听播客，在播客里学习健康科普常识。当然还是要在保证工作的前提之下。所以今天咱们就来聊一个“带薪话题”，一边听着播客，一边就“养生”。就比如，我最近发现小红书上有一个活动我觉得有点意思，叫做“带薪健康3分钟”，我看到好多人都在参与这个话题，看得出来，一个是大家被各种各样的身体状况问题所困扰，当然另外也看出得来大家都是很会利用碎片化时间哈。所以咱们今天就拜访了一位健康领域的大咖，有请陈老师👏</p><blockquote><p><strong>嘉宾介绍</strong></p></blockquote><figure><img src="https://image.xyzcdn.net/luu5beWTroHx8noSJG5KyU838q8C.png" referrerpolicy="no-referrer"></figure><blockquote><p><strong>社交媒体</strong></p></blockquote><p>听友群请加微信：cheeseradio</p><p>合作事宜请加微信：tuenen87</p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.xiaohongshu.com/user/profile/556bc2f567bc657ed56e6570?xhsshare=CopyLink&amp;appuid=556bc2f567bc657ed56e6570&amp;apptime=1694955431">小红书视频播客：汤瀚森｜阿汤</a></p><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.xiaohongshu.com/user/profile/60b1ae41000000000101c698?xhsshare=CopyLink&amp;appuid=556bc2f567bc657ed56e6570&amp;apptime=1702179530">嘉宾小红书ID：运动康复陈老师</a></p><blockquote><p><strong>时间轴</strong></p></blockquote><p>02:11 陈老师从职业运动员康复到大众运动康复</p><p>03:39 什么是运动康复？他都包括哪些？</p><p>05:19 20%术后康复，和医院里的康复科有什么不同？</p><p>05:46 除了治疗，更多的是“侦探”工作</p><ul><li><p><strong>颈前探、富贵包</strong></p></li></ul><p>07:16 脖子前探的问题，不能靠意识控制体态，会产生进一步代偿</p><p>08:44 富贵包和颈前探有必然联系吗？</p><p>09:20 富贵包只有胖人才会有吗？</p><p>09:56 怎么样才能改善颈前探？</p><ul><li><p><strong>“葛优瘫”、翘二郎腿</strong></p></li></ul><p>11:20 “葛优瘫”是椎间盘的“大杀器”</p><p>12:54 如何改善“葛优瘫”</p><p>13:16 翘二郎腿的一系列危害</p><p>13:52 网红跪式的座椅的危害</p><ul><li><p><strong>久坐、腰疼</strong></p></li></ul><p>14:50 久坐腰疼，但我们都弄错了腰疼的底层逻辑</p><p>16:15 腰肌劳损的发生机制</p><p>17:57 腰肌劳损可逆吗？</p><p>18:31 为什么腰肌劳损越拉伸越疼？</p><p>19:19 腰痛的“9090呼吸法”适合每一个人吗？</p><p>19:54 人体三个腔体对体态的影响</p><ul><li><p><strong>椎间盘突出</strong></p></li></ul><p>22:12 为什么有那么多年轻人患有椎间盘突出症？</p><p>23:02 在日常生活中如何避免腰突？</p><p>23:45 椎间盘最怕的就是弯腰，“葛优瘫”也是一种弯腰</p><p>25:04 椎间盘突出的治疗是对症治疗</p><ul><li><p><strong>带薪健康操</strong></p></li></ul><p>25:58 小红书和复旦大学附属华山医院打造了「带薪健康操」，希望号召更多职场人在工位上动动，拉伸放松。陈老师作为带薪骨劲员介绍下这个健康操的坐着能完成的动作</p><p>27:26 做运动康复之前的一些建议</p><p>28:16 还有哪些适合职场人的带薪健康的方法呢？</p><p>30:12 一定要把肘关节放在桌子上面</p><p>31:20 不同职业的不同康复训练方案</p><figure><img src="https://image.xyzcdn.net/FnqmSijA_YVB9P7aly094-wA9Qtf.jpg" referrerpolicy="no-referrer"></figure><p>📌 在11.15-12.30期间，上小红书搜索「<strong>带薪健康</strong>」，能看到好玩又好跳的“带薪健康操”，还有更多健康摸鱼的方式。大家在职场中有什么带薪健康方法？在小红书带话题<strong>#带薪健康3分钟</strong> 发布笔记，有机会抽取专属健康礼包。</p><p>📌 我们“说来话长”播客也为大家争取到了一些福利！我们也将在12月30号前在本期留言中选<strong>8位</strong>用户，送出健康创意周边「规矩地垫」。快去积极留言吧💨</p><figure><img src="https://image.xyzcdn.net/FurYwQOK_otQfq5oUUl4ydP8B76i.jpg" referrerpolicy="no-referrer"></figure><p>本期节目视频内容请关注小红书 ➡️ <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.xiaohongshu.com/user/profile/556bc2f567bc657ed56e6570?xhsshare=CopyLink&amp;appuid=556bc2f567bc657ed56e6570&amp;apptime=1694955431">视频播客</a></p><figure><img src="https://image.xyzcdn.net/FjpnkP5XMMrZ4ByBpjofglwviUki.jpg" referrerpolicy="no-referrer"></figure><figure><img src="https://image.xyzcdn.net/FqmV0lo9OzyTuzWLXlfcqpBM9yYz.jpg" referrerpolicy="no-referrer"></figure><figure><img src="https://image.xyzcdn.net/FiTvEMLK2NyGHbI1cuC-oWXpo1oT.jpg" referrerpolicy="no-referrer"></figure><figure><img src="https://image.xyzcdn.net/FqkWAQyi2EKn1p4VMbpkz9eEd42U.jpg" referrerpolicy="no-referrer"></figure><figure><img src="https://image.xyzcdn.net/FiGIHiHrWPGvl4pj_szG2SeRskXm.jpg" referrerpolicy="no-referrer"></figure><figure><img src="https://image.xyzcdn.net/FrDm01H1kkautf6kXsENvEQ5qqPX.jpg" referrerpolicy="no-referrer"></figure><p>BGM：小红书联合网易云《我要做回我自己》授权播出</p><blockquote><p><strong>拓展阅读</strong></p></blockquote><p>👇背部肌肉：浅层</p><figure><img src="https://image.xyzcdn.net/FnQtLtNBmIejWPeDuBCcip-R2dLv.jpg" referrerpolicy="no-referrer"></figure><figure><img src="https://image.xyzcdn.net/Fl76dpFRtnfDj9xPbgjY0t285zGy.jpg" referrerpolicy="no-referrer"></figure><p>👆背部肌肉：中层 &nbsp;；👇背部肌肉：深层</p><figure><img src="https://image.xyzcdn.net/FgSYL9Y6pdTrW0TYRkqePsXTdQyu.jpg" referrerpolicy="no-referrer"></figure><p>👇盆部骨性结构</p><figure><img src="https://image.xyzcdn.net/Fr6Ci7-AlOL-k87v0jWdOxq69TXX.jpg" referrerpolicy="no-referrer"></figure><p>*图片来自《奈特人体解剖学彩色图谱》第七版</p><h3><strong>腰肌劳损”的病因和发病机制</strong></h3><p>根据发病原因，目前多将腰痛分为3类，即特异性腰痛(specific low back pain, SLBP)、根性腰痛和非特异性腰痛(nonspecific low back pain, NLBP)[1,2]。SLBP是指结合病史、实验室检查及影像学检查可明确诊断的腰痛，主要包括累及腰椎的恶性肿瘤、骨折、感染、马尾综合征、主动脉瘤等引起的腰痛。根性腰痛是指腰椎间盘突出、骨赘形成、腰椎滑脱、椎管狭窄等压迫神经根引起的腰痛，通过影像学检查可明确诊断。NLBP指病因不明，除SLBP及根性腰痛以外的其他原因所引起的腰痛[3]。国内常将NLBP诊断为“腰肌劳损”、腰扭伤、腰肌痉挛、腰肌筋膜炎等[4,5]。</p><p>对于“腰肌劳损”的病因和发病机制，目前尚未达成共识。王忍生[6]认为，“腰肌劳损”是由于工作时腰部长时间处于一种姿势，使部分腰部肌肉纤维处于紧张状态或发生部分撕裂导致的。梁新军等[7]认为，“腰肌劳损”是由于腰部承受过大负重引起的无菌性炎症，进而诱发腰部疼痛。郑贵良[8]认为，“腰肌劳损”是一种腰部肌肉、筋膜及韧带组织慢性损伤导致的腰痛。仔细分析可以看出，目前关于“腰肌劳损”病因和发病机制的认识是不精确的。脊柱后路手术时，即使腰背部肌群被剥离、牵扯，甚至切断，大部分患者数天后就不再疼痛，这说明单纯的肌肉损伤并不会引起长久的疼痛。越来越多的证据表明，“腰肌劳损”真正劳损的不是肌肉，而是腰椎间盘、脊神经后支、关节突关节等结构[4]。此外，约1/3的慢性腰痛患者合并抑郁症[9,10],抗抑郁治疗有效。这也给我们明确“腰肌劳损”的诊断增加了难度。随着对腰部疾病研究的深入，“腰肌劳损”这一概念将会被进一步细化，被以解剖结构和病理学为基础的诊断术语所取代[11]。</p><blockquote><p><strong>参考文献</strong></p></blockquote><p>[1] CHOU R,QASEEM A,SNOW V,et al.Diagnosis and treatment of low back pain:a joint clinical practice guideline from theAmerican College of Physicians and the American Pain Society[J].Ann Intern Med,2007,147(7):478-491.</p><p>[2] 朱晓丹，李谈华，李俊伟.以腰痛为表现的未分化疾病的基层临床路径I.中国全科医学，2019,22(1):117-122.</p><p>[3] 中国康复医学会脊柱脊髓专业委员会专家组中国急/慢性非特异性腰背痛诊疗专家共识.中国脊柱脊髓杂志，2016,26(12):134-1138.</p><p>[4] 陈仲，靳安民，张积利，等.慢性腰肌劳损的修正诊断和对因治疗[J].广东医学，2011,32(18):2416-2418.</p><p>[5] 孙磊，宁志杰.慢性非特异性腰痛[J].中国矫形外科杂志，2010,18(23):1967-1969.</p><p>[6] 王忍生.腰痛的病因分类及诊断治疗[J].陕西中医学院学报，1980(4):24-29.</p><p>[7] 梁新军，夏仁云，夏侃.下腰痛的诊断与治疗IJ中国疼痛医学杂志，2005,11(1):41-44.</p><p>[8] 郑贵良.腰痛的病因和分类[J].甘肃医药，2011,30(7):408-409.</p><p>[9] TURNER J A,DENNY M C.Do antidepressant medications relieve chronic low back pain?[J].J Fam Pract 1993,.37(6):545553.</p><p>[10] ATKINSON H J,SLATER M A,WILLIAMS R A,et al.A placebo-controlled randomized clinical trial of nortriptyline for chronic low back pain[J].Pain,199876(3):287-296.</p><p>[11] 钟伟兴, 王宁, 李义凯. 对“腰肌劳损”的再认识[J]. 中医正骨, 2021, 33 (09): 44-46.</p><figure><img src="https://image.xyzcdn.net/FtN_ALLuMKpUV5Y9MhUT28gjxuHs.png" referrerpolicy="no-referrer"></figure><p>*声明</p><p>本播客的内容仅代表个人观点，并不代表任何单位、供职机构等的立场，也不构成任何形式的医疗意见或建议等。本内容仅供健康科普使用，不能作为诊断、治疗的依据，请谨慎参考。未经本播客的授权，不得转载或使用播客节目中的任何内容。</p>]]></summary>
         <author>
             <name>rss - podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
-        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/"/>
-        <updated>2023-12-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
     <entry>
@@ -6081,16 +5962,6 @@ are:</P>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Preparing For Interaction To Next Paint, A New Web Core Vital]]></title>
-        <id>https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/</id>
-        <link href="https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/"/>
-        <updated>2023-12-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vol.12: 四个运动者和一个脆皮人]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/657202cba828adb487ef1194</id>
         <link href="https://www.xiaoyuzhoufm.com/episode/657202cba828adb487ef1194"/>
@@ -6348,16 +6219,6 @@ are:</P>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2023/12/five-second-testing-case-study/</id>
-        <link href="https://smashingmagazine.com/2023/12/five-second-testing-case-study/"/>
-        <updated>2023-12-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
         </author>
     </entry>
     <entry>
@@ -6905,16 +6766,6 @@ Vue4 啥规划？<br>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Marketing Changed OOP In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/</id>
-        <link href="https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/"/>
-        <updated>2023-12-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chrome扩展新版要求manifest v3对油猴、adblock之类扩展的限制]]></title>
         <id>https://meta.appinn.net/t/topic/49938</id>
         <link href="https://meta.appinn.net/t/topic/49938"/>
@@ -7392,16 +7243,6 @@ NinjaMouse 不会收集任何隐私数据，也没有发出任何网络请求。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recovering Deleted Files From Your Git Working Tree]]></title>
-        <id>https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/</id>
-        <link href="https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/"/>
-        <updated>2023-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Oluwasanmi Akande)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[上传到公号的Gif图片额外多出一些小点点]]></title>
         <id>https://meta.appinn.net/t/topic/49853</id>
         <link href="https://meta.appinn.net/t/topic/49853"/>
@@ -7573,16 +7414,6 @@ NinjaMouse 不会收集任何隐私数据，也没有发出任何网络请求。
         <summary type="html"><![CDATA[<p><b>免iTunes下载新/旧版IPA</b><br><br>下载地址   <a href="https://wangfei.lanzoum.com/b0ei1zlje" target="_blank" rel="noopener">https://wangfei.lanzoum.com/b0ei1zlje</a><br>密码:huihui<br><br><a href="https://habo.qq.com/file/showdetail?pk=ADQGZV1qB2UIPFs6U2oHYw%3D%3D" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">杀软可能会误报毒，点此查看哈勃分析</a><br>群内管理员作品，放心使用<br><br>作者：灰灰</p> <video src="https://cdn1.cdn-telegram.org/file/56d8ca279d.mp4?token=Xquvxi3w-tOrh8IoLBmDF-an80bpSr7ft8gnVCP1JhqmQgqPoaxH6ZgXHlBoeNyM_IKcFUNn4YyezVqplFKKrfJx2iiwi4FOBXIO5nThHaCc1-EYNFdauPiyYndgbpcMgVD0X6du9c6HD5DgYJtrnMzaaWtlzdd5pSLEaq99KVzMrrpmBmOgs7chOd5ZX1uV0NaW3SEQeIdgqOPuoby6ttYYPKza9w3Iotwwl6Vyvr6KCJHYgNb8LkoPu-vvHas5czXM9IXGUiL-60mFVjWcpJdKWbL62rd26C1wfnIDm_5jgTlOMsG6mahGxXSn2IP4yPfRzLKJZFVDk2EjEGF7wWvQBaMYM--CcIaJ7FFOQXaTNdWHNFdV9zEUUztpDiCUnnaz3FruNz3xOpiVLcJARWKwi6ZF7gN7v92CFNCejD-iRD2mV3oW_ikXcOXY-0pFJqtWrvdciZVtFy6eoDDq5lcZht5jCSMJIozuNI1D97XiD5T-Oz3-EvWezSc9Q4GEY4E1vlF0pJxzXI_xT_v_MNmkRf1B8Eftyh_3d8uuOKcsq3H7kgj8jn68-mWu_GxcsDJ_fDXIlnqNLuqFdSBHLcNCvsscJS4pqalcLg_ENfmYyIWeXZKO_OEWQHEju2c-GvYyEmQslfq48QKYQ1kprmLfq9klaWrfvXyBH3Gv9PE" controls="controls" poster="https://cdn1.cdn-telegram.org/file/X4NnsiQUeMblEEV0UfKfAjdnl9hjhV5S89tWYeZIHve4SSJDxEq0qhnaTmptLQVOa86P7fVc9aJ951Rm40mXRh9tD2lHMKJDKJ3LgLQRrddm20Ab6ygWfcTXginIOlKbLUdC8QSWgSAaOoKHuIprEml_7dJ4nxFH5upgOE_nMrHjpBzThowSQGwRU1muGoLqeQg-H3f9FVOuyPTIaDNvid4-YZaP0nm9yeGStmfjD-0CeFdo2GWO-77jykbK8PN5Q8tGqRtGMlkEnVCbQ0ERshKSV7XvdFMPwSAEQkrlxDagVzdLVhLC6rOP9OBWYEDRW4VM46s7MAXtBQmOBq3b7g" style="width:100%"></video>]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Days, Shining Lights (December 2023 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/</id>
-        <link href="https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/"/>
-        <updated>2023-11-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
@@ -8135,16 +7966,6 @@ $ kubectl get pods | cut -d - -f 1 | sort | uniq --count                        
         <summary type="html"><![CDATA[<p><b>StreamSphere: 一款 Android RSS 阅读器 app</b><br><br>官方称支持无限订阅数，上限取决于设备内存。<span class="emoji">😁</span><br><br><a href="https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere" target="_blank" rel="noopener">https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere</a><br><br>同时，作者将内置 700+ 个 RSS Feeds 在 GitHub 共享：<br><a href="https://github.com/Martinviv/rss-sources" target="_blank" rel="noopener">https://github.com/Martinviv/rss-sources</a><br><br>可在 Reddit 与作者互动：<br><a href="https://www.reddit.com/r/androidapps/comments/15kjvco/streamsphere_rss_reader/" target="_blank" rel="noopener">https://www.reddit.com/r/androidapps/comments/15kjvco/streamsphere_rss_reader/</a><br><br>发现于官推：<br><a href="https://twitter.com/StreamSphereRss/status/1712714830904250632" target="_blank" rel="noopener">https://twitter.com/StreamSphereRss/status/1712714830904250632</a></p><img src="https://cdn1.cdn-telegram.org/file/MPtMKMvWbZLxfjNzijI4PNTEDMXVHNtrPtihH7inD_OTRloT1dJXtIJp0FuPhfH2WEkCT7wCZb43Bb8QdLh7dMosuZ3eY8uFzCb8XEfNkrAZgnZkYWjDxRSv8Z1MRamrx4uym18m55Uz8qrMrTV6fNhTM8gj1ZihDd1N5WTlXeu1R4Uhg761F6xx3AfVMA_3dPKXXyUNetiamhj0Rq2jTPg7DP3uk0M-JxG0cRxh-Utjwhlmlw0u8_AQU5b_2yOqFjcHElaXgDTjiOfw-Vmr0pbwtJDHUi0YwSsbpI6OD978UmaZGrJoc5bXV7IjKINzocOCwG2y-CrfUDn2z7g38g.jpg" referrerpolicy="no-referrer">]]></summary>
         <author>
             <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting A Killer Brand Identity For A Digital Product]]></title>
-        <id>https://smashingmagazine.com/2023/11/crafting-killer-brand-identity-digital-product/</id>
-        <link href="https://smashingmagazine.com/2023/11/crafting-killer-brand-identity-digital-product/"/>
-        <updated>2023-11-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Sasha guides you through crucial processes and factors to achieve a consistent brand presence across platforms. She offers an overview of the entire brand identity process, explores collaboration with UI teams, and provides essential details on the assets required for the successful implementation of a digital brand.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sasha Denisova)</name>
         </author>
     </entry>
     <entry>
@@ -8956,16 +8777,6 @@ Google Play：<a href="https://play.google.com/store/apps/details?id=com.space.d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Few Ways CSS Is Easier To Write In 2023]]></title>
-        <id>https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/</id>
-        <link href="https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/"/>
-        <updated>2023-11-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re living in somewhat of a CSS renaissance with new features, techniques, experiments, and ideas coming at us to an extent we haven’t seen since “CSS3”. It’s easy to feel overwhelmed when your profession seems to be advancing at breakneck speed, but Geoff Graham considers the ways “modern” CSS in 2023 has actually made CSS “easier” to write.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[S5 Vol.34 创业内幕 x 纪源Fellows特辑 | 扬奇医芯周冠群：肿瘤的精准“猎杀”时刻]]></title>
         <id>https://www.xiaoyuzhoufm.com/episode/655fcc21063ee9773d9b957f</id>
         <link href="https://www.xiaoyuzhoufm.com/episode/655fcc21063ee9773d9b957f"/>
@@ -8983,16 +8794,6 @@ Google Play：<a href="https://play.google.com/store/apps/details?id=com.space.d
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>rss - code</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction To Full Stack Composability]]></title>
-        <id>https://smashingmagazine.com/2023/11/introduction-full-stack-composability/</id>
-        <link href="https://smashingmagazine.com/2023/11/introduction-full-stack-composability/"/>
-        <updated>2023-11-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A well-designed composable system should not only consider the technical aspects but also take into account the nature of the content it handles. To help us with that, we can use a Headless Content Management system such as Storyblok.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
         </author>
     </entry>
     <entry>
@@ -9339,16 +9140,6 @@ Google Play：<a href="https://play.google.com/store/apps/details?id=com.space.d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Responsive Multi-Line Ribbon Shapes (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/</id>
-        <link href="https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/"/>
-        <updated>2023-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In Part 1 of the series, Temani Afif demonstrated how creating ribbon patterns in CSS has evolved with the availability of new CSS features. In this second installment of this brief two-part series, we look at two additional ribbon variations that introduce techniques for masking a repeated background gradient in CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“我以前真是看错腾讯了”]]></title>
         <id>https://youxiputao.com/article/25727</id>
         <link href="https://youxiputao.com/article/25727"/>
@@ -9491,16 +9282,6 @@ Google Play：<a href="https://play.google.com/store/apps/details?id=com.space.d
         <summary type="html"><![CDATA[<p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;" data-flag="normal"><span>在经过华为的短暂交手之后，新势力感受到了华为令人窒息的统治力，雷军和华为缠斗十年形成的战术素养，也水落石出。多年行兵打仗，敢吃夹生饭，擅长逆风局，六十万对八十万，优势在他，神似502打淮海战役。</span><br><br><span>两位大哥面前，新势力们只能在战争中学习战争，即使像小鹏在AEB问题上栽一个大跟头，这笔学费也是划算的。更不要说融资、发布、定价这些事关企业生死的问题。像蔚来这样一整年没有新车，靠2024年下半年的ALPS甚至是2025年的ET9来凑，可以说是难以原谅的错误了。</span></p><span><br></span><p style="color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;" data-flag="normal">……<br></p>]]></summary>
         <author>
             <name>rss - podcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating And Maintaining A Voice Of Customer Program]]></title>
-        <id>https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/</id>
-        <link href="https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/"/>
-        <updated>2023-11-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco &amp; Dana Daniels)</name>
         </author>
     </entry>
     <entry>
@@ -9803,40 +9584,6 @@ Google Play：<a href="https://play.google.com/store/apps/details?id=com.space.d
 </p><div class="lightbox-wrapper"><a class="lightbox" href="https://meta-cdn1.appinn.com/uploads/default/original/3X/a/6/a68a730846aa3150758797345a6c07fc24928f61.png" data-download-href="https://meta-cdn1.appinn.com/uploads/default/a68a730846aa3150758797345a6c07fc24928f61" title="image_2023-11-20_13-59-30"><img src="https://meta-cdn1.appinn.com/uploads/default/original/3X/a/6/a68a730846aa3150758797345a6c07fc24928f61.png" alt="image_2023-11-20_13-59-30" data-base62-sha1="nLhSXvraaBSmMJz8krQwf4KkWB3" width="690" height="234" data-dominant-color="EFEFF0"></a></div><p></p>
             <p><small>15 个帖子 - 7 位参与者</small></p>
             <p><a href="https://meta.appinn.net/t/topic/49447">阅读完整话题</a></p>]]></summary>
-        <author>
-            <name>rss - news</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求推荐markdown的win安卓ios三端同步方案]]></title>
-        <id>https://meta.appinn.net/t/topic/49438</id>
-        <link href="https://meta.appinn.net/t/topic/49438"/>
-        <updated>2023-11-20T01:58:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>更新：<br>
-感谢各位，恕不一一回复了。循下面一位朋友的推荐用Lark(飞书国际版)，斯德哥尔摩情人了属于是。</p>
-<p>—-</p>
-<p>本人需求：</p>
-<ol>
-<li>win、安卓、ipad都有编辑markdown的需求（几乎每天带ipad去图书馆）</li>
-<li>希望支持代码、latex、图片，最好有toc大纲</li>
-<li>没有审查风险，非纯云端，自己能掌握数据</li>
-<li>接受付费</li>
-<li>非markdown也行，能导入我之前写的markdown就行</li>
-</ol>
-<p>win有vscode、typora、obsidian，安卓有markor勉强能用，也可用foldersync同步，ipad软件和同步都没着落</p>
-<p>目前了解的软件：</p>
-<ol>
-<li>notion。感觉学习成本有点高？云存储不太放心，而且这种数据格式方便迁移吗？如果不用了跑路去别的软件会不会很麻烦？</li>
-<li>坚果云。同步可以，自带的编辑器不行，没法调用第三方编辑器。</li>
-<li>Joplin。颜值差点，没有别的话就用这个了。</li>
-<li>obsidian。ipad同步是个问题，去中文论坛看了下，现在还是八仙过海。</li>
-<li>思源笔记。移动端尚不完备，而且ipad端好卡～</li>
-</ol>
-<p>注：<br>
-飞书是我目前主力软件，但是昨天突然要求必须<strong>实名</strong>，否则无法登录。遂打算迁移，来小众软件发帖询问。因为这个对国内软件都不信任，万一哪天像gitee那样逐字审查了呢？之前我发个博客告诉我有违禁字，还不说在哪，二分法找了好久，“这**这也算违禁？”<br>
-希望数据能掌握在自己手里吧。</p>
-            <p><small>13 个帖子 - 12 位参与者</small></p>
-            <p><a href="https://meta.appinn.net/t/topic/49438">阅读完整话题</a></p>]]></summary>
         <author>
             <name>rss - news</name>
         </author>
